@@ -1,8 +1,5 @@
 import java.io.Serializable;
-/**
- *
- * @author giasutinhoc.vn
- */
+
 public class Stock implements Serializable{
     private int id;
     private String desc;
